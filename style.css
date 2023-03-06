@@ -1,0 +1,22 @@
+.lead {
+    margin: 1rem;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+#todo-input {
+    width: 30%;
+}
+
+
+
+li {
+    width: 30%;
+    list-style-type: none;
+    margin: .5rem;
+}
+
+.todoli {
+    padding: 1rem;
+}
+
