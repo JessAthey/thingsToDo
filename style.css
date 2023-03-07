@@ -1,11 +1,16 @@
 .lead {
     margin: 1rem;
-    font-size: 28px;
+    font-size: 40px;
     font-weight: 600;
 }
 
+form {
+    margin-left: 1rem;
+}
+
 #todo-input {
-    width: 30%;
+    width: 34%;
+    margin-left: 1rem;
 }
 
 
@@ -18,5 +23,9 @@ li {
 
 .todoli {
     padding: 1rem;
+}
+
+label {
+    margin-left: .5rem;
 }
 
